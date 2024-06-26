@@ -19,8 +19,8 @@ function NavBar() {
                     <li className={styles.logo}>
                         <Link to='/Udemy-Clone-ReactJS/'>
                             <img
-                                src='https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg'
-                                alt='udemy-logo'
+                                src=''
+                                alt='Learning Destiny'
                             />
                         </Link>
                     </li>
@@ -46,7 +46,7 @@ function NavBar() {
                             type='button'
                             name='udemy-business'
                         >
-                            Udemy Business
+                             Collaborate
                         </button>
                     </li>
                     <li className={styles.teachOnUdemyButton}>
@@ -54,7 +54,7 @@ function NavBar() {
                             type='button'
                             name='teach-on-udemy-button'
                         >
-                            Teach on Udemy
+                            Teach on Learning Destiny
                         </button>
                     </li>
                     <li className={styles.cartButton}>
@@ -65,20 +65,20 @@ function NavBar() {
                             <i className='fa-solid fa-cart-shopping'></i>
                         </button>
                     </li>
-                    <li className={styles.loginButton}>
+                    {/* <li className={styles.loginButton}>
                         <button
                             type='button'
                             name='login-button'
                         >
                             Log in
                         </button>
-                    </li>
+                    </li> */}
                     <li className={styles.signupButton}>
                         <button
                             type='button'
                             name='singup-button'
                         >
-                            Sign up
+                            Join Now
                         </button>
                     </li>
                     <li className={styles.langButton}>

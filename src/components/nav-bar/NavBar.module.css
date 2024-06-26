@@ -99,7 +99,7 @@
     .categoriesButton button:hover,
     .cartButton button:hover,
     .udemyBusinessButton button:hover {
-        color: #401b9c;
+        color: #de5110;
     }
 
     .loginButton button:hover {
@@ -109,7 +109,7 @@
     .loginButton button,
     .signupButton button {
         background-color: transparent;
-        border: 1px solid black;
+        border: 1px solid #de5110;
         font-weight: bold;
         width: 5rem;
         font-size: 1.2rem;
@@ -119,7 +119,7 @@
 
     .signupButton button {
         min-width: 6rem;
-        background-color: #000;
+        background-color: #de5110;
         color: #fff;
     }
 

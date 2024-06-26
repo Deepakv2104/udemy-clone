@@ -1,56 +1,56 @@
 const links = [
     [
         {
-            text: 'Udemy Business',
-            href: 'https://www.udemy.com/udemy-business/?locale=en_US&mx_pg=home-page&path=%2F&ref=footer'
+            text: 'Business',
+            href: ''
         },
         {
-            text: 'Teach on Udemy',
-            href: 'https://www.udemy.com/teaching/?ref=teach_footer'
+            text: 'Teach on Learning Destiny',
+            href: ''
         },
         {
             text: 'Get the app',
-            href: 'https://www.udemy.com/mobile/'
+            href: ''
         },
         {
             text: 'About us',
-            href: 'https://about.udemy.com/?locale=en-us'
+            href: ''
         },
         {
             text: 'Contact us',
-            href: 'https://about.udemy.com/company?locale=en-us#offices'
+            href: ''
         }
     ],
     [
         {
             text: 'Careers',
-            href: 'https://about.udemy.com/careers?locale=en-us'
+            href: ''
         },
         {
             text: 'Blog',
-            href: 'https://blog.udemy.com/?ref=footer'
+            href: ''
         },
         {
             text: 'Help and Support',
-            href: 'https://www.udemy.com/support/'
+            href: ''
         },
         {
             text: 'Affiliate',
-            href: 'https://www.udemy.com/affiliate/'
+            href: ''
         },
         {
             text: 'Investors',
-            href: 'https://investors.udemy.com/'
+            href: ''
         }
     ],
     [
         {
             text: 'Terms',
-            href: 'https://www.udemy.com/terms/'
+            href: ''
         },
         {
             text: 'Privacy policy',
-            href: 'https://www.udemy.com/terms/privacy/'
+            href: ''
         },
         {
             text: 'Cookie settings',
@@ -58,11 +58,11 @@ const links = [
         },
         {
             text: 'Sitemap',
-            href: 'https://www.udemy.com/sitemap/'
+            href: ''
         },
         {
             text: 'Accessibility statement',
-            href: 'https://about.udemy.com/accessibility-statement?locale=en-us'
+            href: ''
         }
     ]
 ];

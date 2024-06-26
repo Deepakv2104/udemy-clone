@@ -20,7 +20,7 @@
 }
 
 .expandAllButton {
-    color: #5624d0;
+    color: #de5110;
     border: none;
     background-color: transparent;
     font-weight: 700;
@@ -28,7 +28,7 @@
 }
 
 .expandAllButton:hover {
-    color: #4c27aa;
+    color: #de5110;
 }
 
 .listItem {

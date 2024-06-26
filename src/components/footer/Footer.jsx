@@ -29,12 +29,12 @@ function Footer() {
                 <div className={styles.logoCopyRights}>
                     <Link to='/Udemy-Clone-ReactJS/'>
                         <img
-                            src={require('../../materials/logo-udemy.png')}
+                            src=""
                             alt='logo'
                             style={{width: '100px', height: '100px'}}
                         />
                     </Link>
-                    <div className={styles.copyRights}>© 2022 Udemy, Inc.</div>
+                    <div className={styles.copyRights}>© 2024 Learning Destiny, Inc.</div>
                 </div>
             </footer>
         </>

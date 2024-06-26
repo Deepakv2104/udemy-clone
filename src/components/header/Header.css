@@ -7,7 +7,11 @@
     align-items: center;
     background-color: #f9f9f9;
 }
-
+.new-to-udemy .logo {
+    max-width: 100%;
+    height: auto;
+    mix-blend-mode: multiply; /* Try different blend modes if needed */
+}
 .new-to-udemy img {
     width: 100%;
     height: auto;

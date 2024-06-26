@@ -25,12 +25,12 @@
 .addToCartButton {
     border: none;
     color: #fff;
-    background-color: #a435f0;
+    background-color: #de5110;
     font-weight: bold;
 }
 
 .addToCartButton:hover {
-    background-color: #832fbb;
+    background-color: #de5110;
 }
 
 .buyNowButton,

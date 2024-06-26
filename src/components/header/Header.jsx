@@ -1,21 +1,22 @@
 import React from 'react';
-import './Header.css'
+import './Header.css';
+import ld from './ld.jpg'; // Make sure to use the new PNG image
 
 function Header() {
     return (
         <>
             <section className='new-to-udemy'>
                 <article>
-                    <p>New to Udemy? Lucky you.</p>
+                    <p>Welcome to Learning Destiny!</p>
                     <p>
-                        Courses start at E£169.99.Get your new-student offer
-                        befort it expires.
+                    "Empower Your Learning Journey"
                     </p>
                 </article>
                 <figure>
                     <img
-                        src='https://i.ibb.co/2qHbQqM/download.png'
-                        alt='clock'
+                        src={ld}
+                        alt='Learning Destiny Logo'
+                        className='logo'
                     />
                 </figure>
             </section>
